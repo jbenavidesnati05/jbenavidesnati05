@@ -1,8 +1,8 @@
-### Hi, i am Jorge👋
+### Hi, I am Jorge Benavides! 👋
 
-💻 Software Developer
-👩‍💻 I am currently working at Sistecredito
-📫 How to contact me: jbenavidesnati05@gmail.com
+💻 Software Developer <br>
+👩‍💻 I am currently working at Sistecredito <br>
+📫 How to contact me: jbenavidesnati05@gmail.com <br>
 
 
 <br><div align="center">  <a href="https://github.com/jbenavidesnati05">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbenavidesnati05&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbenavidesnati05&layout=compact&langs_count=7&theme=blue"/></div><div style="display: inline_block"><br> 
